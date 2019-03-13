@@ -1,0 +1,2 @@
+* Download all the three files in this folder
+* Extract using an extraction application such as winrar
